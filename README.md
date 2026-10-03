@@ -1,5 +1,7 @@
 # ChurchConnect
 
+[Live Pages preview](https://piyush-chopra.github.io/churchconnect/) · [Source repository](https://github.com/piyush-chopra/churchconnect)
+
 A React + TypeScript frontend, Django backend, and installable progressive web app for ministry careers. Built from the ChurchConnect reference with Impeccable, Taste and Emil’s design engineering guidance.
 
 ## Start locally

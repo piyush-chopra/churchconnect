@@ -47,4 +47,4 @@ Browser checks used local fictional records. No real employers were contacted. P
 - Production Pages build passed with `/churchconnect/` base path and static preview enabled.
 - Checked generated HTML asset paths, manifest scope/start URL/icons, and service-worker asset scope. API, admin, and unrelated repository paths are not intercepted.
 - Local browser at port 4173: nine sample listings rendered; searching technology returned two jobs. Sign-in opened a preview explanation with zero credential inputs.
-- Repository publishing/deployment remains pending authentication as the requested GitHub owner. This verification is local, not a claim of a live Pages deployment.
+- Published to https://github.com/piyush-chopra/churchconnect and https://piyush-chopra.github.io/churchconnect/. GitHub Actions run 37148706355 passed its build and deploy jobs. Live browser verification confirmed sample listings, ministry filtering, and the no-credentials preview dialog; no browser errors were reported.
