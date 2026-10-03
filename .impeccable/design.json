@@ -1,0 +1,419 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-03T19:34:35.821537+00:00",
+  "title": "Design System: ChurchConnect",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0312 165.99)",
+          "oklch(26% 0.0312 165.99)",
+          "oklch(38% 0.0312 165.99)",
+          "oklch(49% 0.0312 165.99)",
+          "oklch(61% 0.0312 165.99)",
+          "oklch(72% 0.0312 165.99)",
+          "oklch(84% 0.0312 165.99)",
+          "oklch(95% 0.0312 165.99)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted",
+        "tonalRamp": [
+          "oklch(15% 0.0143 156.72)",
+          "oklch(26% 0.0143 156.72)",
+          "oklch(38% 0.0143 156.72)",
+          "oklch(49% 0.0143 156.72)",
+          "oklch(61% 0.0143 156.72)",
+          "oklch(72% 0.0143 156.72)",
+          "oklch(84% 0.0143 156.72)",
+          "oklch(95% 0.0143 156.72)"
+        ]
+      },
+      "green": {
+        "role": "primary",
+        "displayName": "Green",
+        "tonalRamp": [
+          "oklch(15% 0.0534 167.55)",
+          "oklch(26% 0.0534 167.55)",
+          "oklch(38% 0.0534 167.55)",
+          "oklch(49% 0.0534 167.55)",
+          "oklch(61% 0.0534 167.55)",
+          "oklch(72% 0.0534 167.55)",
+          "oklch(84% 0.0534 167.55)",
+          "oklch(95% 0.0534 167.55)"
+        ]
+      },
+      "green-hover": {
+        "role": "primary",
+        "displayName": "Green Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0490 165.55)",
+          "oklch(26% 0.0490 165.55)",
+          "oklch(38% 0.0490 165.55)",
+          "oklch(49% 0.0490 165.55)",
+          "oklch(61% 0.0490 165.55)",
+          "oklch(72% 0.0490 165.55)",
+          "oklch(84% 0.0490 165.55)",
+          "oklch(95% 0.0490 165.55)"
+        ]
+      },
+      "border": {
+        "role": "neutral",
+        "displayName": "Border",
+        "tonalRamp": [
+          "oklch(15% 0.0103 131.36)",
+          "oklch(26% 0.0103 131.36)",
+          "oklch(38% 0.0103 131.36)",
+          "oklch(49% 0.0103 131.36)",
+          "oklch(61% 0.0103 131.36)",
+          "oklch(72% 0.0103 131.36)",
+          "oklch(84% 0.0103 131.36)",
+          "oklch(95% 0.0103 131.36)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0041 121.56)",
+          "oklch(26% 0.0041 121.56)",
+          "oklch(38% 0.0041 121.56)",
+          "oklch(49% 0.0041 121.56)",
+          "oklch(61% 0.0041 121.56)",
+          "oklch(72% 0.0041 121.56)",
+          "oklch(84% 0.0041 121.56)",
+          "oklch(95% 0.0041 121.56)"
+        ]
+      },
+      "sage": {
+        "role": "primary",
+        "displayName": "Sage",
+        "tonalRamp": [
+          "oklch(15% 0.0143 128.63)",
+          "oklch(26% 0.0143 128.63)",
+          "oklch(38% 0.0143 128.63)",
+          "oklch(49% 0.0143 128.63)",
+          "oklch(61% 0.0143 128.63)",
+          "oklch(72% 0.0143 128.63)",
+          "oklch(84% 0.0143 128.63)",
+          "oklch(95% 0.0143 128.63)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(26% 0.0000 89.88)",
+          "oklch(38% 0.0000 89.88)",
+          "oklch(49% 0.0000 89.88)",
+          "oklch(61% 0.0000 89.88)",
+          "oklch(72% 0.0000 89.88)",
+          "oklch(84% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "metadata": {
+        "role": "neutral",
+        "displayName": "Metadata",
+        "tonalRamp": [
+          "oklch(15% 0.0394 133.28)",
+          "oklch(26% 0.0394 133.28)",
+          "oklch(38% 0.0394 133.28)",
+          "oklch(49% 0.0394 133.28)",
+          "oklch(61% 0.0394 133.28)",
+          "oklch(72% 0.0394 133.28)",
+          "oklch(84% 0.0394 133.28)",
+          "oklch(95% 0.0394 133.28)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus",
+        "tonalRamp": [
+          "oklch(15% 0.0505 158.04)",
+          "oklch(26% 0.0505 158.04)",
+          "oklch(38% 0.0505 158.04)",
+          "oklch(49% 0.0505 158.04)",
+          "oklch(61% 0.0505 158.04)",
+          "oklch(72% 0.0505 158.04)",
+          "oklch(84% 0.0505 158.04)",
+          "oklch(95% 0.0505 158.04)"
+        ]
+      },
+      "hero-sage": {
+        "role": "primary",
+        "displayName": "Hero Sage",
+        "tonalRamp": [
+          "oklch(15% 0.0180 123.98)",
+          "oklch(26% 0.0180 123.98)",
+          "oklch(38% 0.0180 123.98)",
+          "oklch(49% 0.0180 123.98)",
+          "oklch(61% 0.0180 123.98)",
+          "oklch(72% 0.0180 123.98)",
+          "oklch(84% 0.0180 123.98)",
+          "oklch(95% 0.0180 123.98)"
+        ]
+      },
+      "nav-active": {
+        "role": "primary",
+        "displayName": "Nav Active",
+        "tonalRamp": [
+          "oklch(15% 0.0124 137.78)",
+          "oklch(26% 0.0124 137.78)",
+          "oklch(38% 0.0124 137.78)",
+          "oklch(49% 0.0124 137.78)",
+          "oklch(61% 0.0124 137.78)",
+          "oklch(72% 0.0124 137.78)",
+          "oklch(84% 0.0124 137.78)",
+          "oklch(95% 0.0124 137.78)"
+        ]
+      },
+      "field-surface": {
+        "role": "neutral",
+        "displayName": "Field Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0028 128.49)",
+          "oklch(26% 0.0028 128.49)",
+          "oklch(38% 0.0028 128.49)",
+          "oklch(49% 0.0028 128.49)",
+          "oklch(61% 0.0028 128.49)",
+          "oklch(72% 0.0028 128.49)",
+          "oklch(84% 0.0028 128.49)",
+          "oklch(95% 0.0028 128.49)"
+        ]
+      },
+      "field-border": {
+        "role": "neutral",
+        "displayName": "Field Border",
+        "tonalRamp": [
+          "oklch(15% 0.0202 128.71)",
+          "oklch(26% 0.0202 128.71)",
+          "oklch(38% 0.0202 128.71)",
+          "oklch(49% 0.0202 128.71)",
+          "oklch(61% 0.0202 128.71)",
+          "oklch(72% 0.0202 128.71)",
+          "oklch(84% 0.0202 128.71)",
+          "oklch(95% 0.0202 128.71)"
+        ]
+      },
+      "card-border": {
+        "role": "neutral",
+        "displayName": "Card Border",
+        "tonalRamp": [
+          "oklch(15% 0.0173 128.67)",
+          "oklch(26% 0.0173 128.67)",
+          "oklch(38% 0.0173 128.67)",
+          "oklch(49% 0.0173 128.67)",
+          "oklch(61% 0.0173 128.67)",
+          "oklch(72% 0.0173 128.67)",
+          "oklch(84% 0.0173 128.67)",
+          "oklch(95% 0.0173 128.67)"
+        ]
+      },
+      "error-surface": {
+        "role": "neutral",
+        "displayName": "Error Surface",
+        "tonalRamp": [
+          "oklch(15% 0.0168 31.08)",
+          "oklch(26% 0.0168 31.08)",
+          "oklch(38% 0.0168 31.08)",
+          "oklch(49% 0.0168 31.08)",
+          "oklch(61% 0.0168 31.08)",
+          "oklch(72% 0.0168 31.08)",
+          "oklch(84% 0.0168 31.08)",
+          "oklch(95% 0.0168 31.08)"
+        ]
+      },
+      "error-ink": {
+        "role": "neutral",
+        "displayName": "Error Ink",
+        "tonalRamp": [
+          "oklch(15% 0.1153 30.30)",
+          "oklch(26% 0.1153 30.30)",
+          "oklch(38% 0.1153 30.30)",
+          "oklch(49% 0.1153 30.30)",
+          "oklch(61% 0.1153 30.30)",
+          "oklch(72% 0.1153 30.30)",
+          "oklch(84% 0.1153 30.30)",
+          "oklch(95% 0.1153 30.30)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Editorial display",
+        "purpose": "Welcome headline; responsive sizes are documented in DESIGN.md."
+      },
+      "metadata": {
+        "displayName": "Readable metadata",
+        "purpose": "Final override for company names, tags, work details, and salary suffixes."
+      }
+    },
+    "shadows": [
+      {
+        "name": "search",
+        "value": "0 3px 10px rgba(35, 56, 31, 0.025)",
+        "purpose": "Subtle definition beneath combined search."
+      },
+      {
+        "name": "segmented-selection",
+        "value": "0 2px 5px rgba(26, 54, 24, 0.06)",
+        "purpose": "Selected account-role segment."
+      },
+      {
+        "name": "dialog",
+        "value": "0 20px 80px rgba(20, 43, 28, 0.2)",
+        "purpose": "Modal elevation."
+      },
+      {
+        "name": "toast",
+        "value": "0 10px 35px rgba(32, 57, 37, 0.16)",
+        "purpose": "Transient status above workspace."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Button press, toggle, and mobile drawer."
+      },
+      {
+        "name": "state-duration",
+        "value": "150ms\u2013180ms",
+        "purpose": "Short component state transitions; disabled under reduced motion."
+      },
+      {
+        "name": "spinner",
+        "value": "800ms linear infinite",
+        "purpose": "Loading indicator; disabled under reduced motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone-max",
+        "value": "420px"
+      },
+      {
+        "name": "mobile-max",
+        "value": "760px"
+      },
+      {
+        "name": "single-board-max",
+        "value": "1000px"
+      },
+      {
+        "name": "compact-desktop-max",
+        "value": "1200px"
+      },
+      {
+        "name": "wide-desktop-min",
+        "value": "1550px"
+      }
+    ],
+    "tasteRefinement": {
+      "date": "2026-10-04",
+      "mode": "preserve",
+      "designVariance": 5,
+      "motionIntensity": 3,
+      "visualDensity": 4,
+      "authoritativeStylesheet": "frontend/src/taste.css",
+      "image": "frontend/src/assets/community.webp",
+      "themes": [
+        "light",
+        "dark"
+      ],
+      "jobTitle": "18px",
+      "jobMetadata": "13px",
+      "formInput": "16px",
+      "topbar": "76px",
+      "cardRadius": "12px",
+      "controlRadius": "8px"
+    }
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "html": "<button class=\"ds-button-primary\">Explore opportunities</button>",
+      "css": ".ds-button-primary{font-family:\"DM Sans\",sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:12px;font-size:12px;font-weight:600;border-radius:7px;min-height:43px;padding:11px 17px;cursor:pointer;transition:background 160ms,transform 160ms cubic-bezier(.16,1,.3,1);background:var(--green,#254e3f);color:var(--white,#fff);border:0;}.ds-button-primary:hover{background:var(--green-hover,#183c2e)}.ds-button-primary:focus-visible{outline:3px solid #8baf99;outline-offset:3px}.ds-button-primary:active{transform:scale(.98)}.ds-button-primary:focus-visible:active{transform:none}.ds-button-primary:disabled{opacity:.55;cursor:not-allowed}",
+      "description": "Labeled task action with visible keyboard focus."
+    },
+    {
+      "name": "Secondary Button",
+      "kind": "button",
+      "refersTo": "button-secondary",
+      "html": "<button class=\"ds-button-secondary\">Explore opportunities</button>",
+      "css": ".ds-button-secondary{font-family:\"DM Sans\",sans-serif;display:inline-flex;align-items:center;justify-content:center;gap:12px;font-size:12px;font-weight:600;border-radius:7px;min-height:43px;padding:11px 17px;cursor:pointer;transition:background 160ms,transform 160ms cubic-bezier(.16,1,.3,1);background:#fff;color:var(--green,#254e3f);border:1px solid #ced7ca;}.ds-button-secondary:hover{background:#eff3eb}.ds-button-secondary:focus-visible{outline:3px solid #8baf99;outline-offset:3px}.ds-button-secondary:active{transform:scale(.98)}.ds-button-secondary:focus-visible:active{transform:none}.ds-button-secondary:disabled{opacity:.55;cursor:not-allowed}",
+      "description": "Labeled task action with visible keyboard focus."
+    },
+    {
+      "name": "Labeled Input",
+      "kind": "input",
+      "refersTo": "input",
+      "html": "<label class=\"ds-field\"><span>Location</span><input placeholder=\"City or region\"></label>",
+      "css": ".ds-field{font-family:\"DM Sans\",sans-serif;display:flex;flex-direction:column;gap:8px;font-size:12px;color:#4d5d48}.ds-field span{font-weight:500}.ds-field input{font-family:\"DM Sans\",sans-serif;border:1px solid #dce3d5;border-radius:7px;padding:11px 12px;background:#fcfdfb;min-height:43px;font-size:13px;color:var(--ink,#263b32)}.ds-field input:focus-visible{outline:3px solid #8baf99;outline-offset:3px}",
+      "description": "Visible label and pale field surface."
+    },
+    {
+      "name": "Active Navigation",
+      "kind": "nav",
+      "refersTo": "nav-active",
+      "html": "<nav aria-label=\"Example\"><button class=\"ds-nav\" aria-current=\"page\"><svg width=\"18\" height=\"18\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\"><rect x=\"3\" y=\"7\" width=\"18\" height=\"14\" rx=\"2\"/><path d=\"M8 7V3h8v4M3 12h18\"/></svg>Discover jobs</button></nav>",
+      "css": ".ds-nav{font-family:\"DM Sans\",sans-serif;display:flex;gap:12px;align-items:center;width:100%;padding:13px 14px;min-height:46px;border:0;border-radius:8px;background:#eaf0e8;color:var(--green,#254e3f);font-size:12px;font-weight:700;text-align:left;cursor:pointer;transition:background 160ms}.ds-nav:hover{background:#f0f4ee}.ds-nav:focus-visible{outline:3px solid #8baf99;outline-offset:3px}",
+      "description": "Icon and label with quiet selected fill."
+    },
+    {
+      "name": "Category Filter",
+      "kind": "chip",
+      "refersTo": "category",
+      "html": "<button class=\"ds-category\" aria-pressed=\"true\">Worship & music</button>",
+      "css": ".ds-category{font-family:\"DM Sans\",sans-serif;font-size:10px;color:#365c3d;border:1px solid #c9d7bf;border-radius:6px;padding:7px 10px;min-height:30px;background:#e9f0e2;font-weight:600;cursor:pointer;transition:background 150ms}.ds-category:hover{background:#edf2e7}.ds-category:focus-visible{outline:3px solid #8baf99;outline-offset:3px}",
+      "description": "Active category with semantic pressed state."
+    },
+    {
+      "name": "Job Card",
+      "kind": "card",
+      "refersTo": "job-card",
+      "html": "<article class=\"ds-job\"><span class=\"ds-company\">Sample church</span><button class=\"ds-title\">Worship Director</button><p class=\"ds-meta\">Austin, TX \u00b7 Full-time \u00b7 On-site</p><div class=\"ds-bottom\"><span class=\"ds-tag\">Leadership</span><strong>$55,000\u2013$65,000 <small>/ year</small></strong></div></article>",
+      "css": ".ds-job{font-family:\"DM Sans\",sans-serif;background:#fff;border:1px solid #e1e7db;border-radius:11px;padding:22px 21px 19px;color:var(--ink,#263b32);transition:border-color 180ms}.ds-job:hover{border-color:#acbea3}.ds-company{font-size:11px;color:#6e7869;display:block;margin-bottom:5px}.ds-title{font-family:\"DM Sans\",sans-serif;padding:0;border:0;background:none;color:inherit;font-size:14px;font-weight:600;line-height:1.4;cursor:pointer}.ds-title:hover{color:#5c7d4f;text-decoration:underline;text-underline-offset:4px}.ds-title:focus-visible{outline:3px solid #8baf99;outline-offset:3px}.ds-meta{font-size:11px;color:#5b6952;margin:17px 0 18px}.ds-bottom{border-top:1px solid #f0f2ec;padding-top:13px;display:flex;justify-content:space-between;gap:10px;flex-wrap:wrap}.ds-tag{font-size:11px;background:#f3f5ef;color:#69765f;padding:4px 8px;border-radius:4px}.ds-bottom strong{font-size:12px;font-weight:600;font-variant-numeric:tabular-nums}.ds-bottom small{font-size:11px;font-weight:400;color:#5b6952}",
+      "description": "Flat bordered listing with final metadata sizes and contrast."
+    },
+    {
+      "name": "Welcome Panel",
+      "kind": "custom",
+      "refersTo": "hero",
+      "html": "<section class=\"ds-hero\"><h2>Find your next<br><em>meaningful chapter.</em></h2><span class=\"ds-arch\" aria-hidden=\"true\"></span></section>",
+      "css": ".ds-hero{position:relative;overflow:hidden;background:#e9eee1;border-radius:13px;padding:34px 39px;min-height:190px;color:var(--ink,#263b32)}.ds-hero h2{position:relative;z-index:1;font-family:Lora,serif;font-weight:400;font-size:42px;line-height:1.18;letter-spacing:-1.2px;margin:0}.ds-hero em{color:#4f6c4d;font-weight:400}.ds-arch{position:absolute;width:205px;height:320px;border-radius:130px 130px 0 0;transform:rotate(23deg);bottom:-73px;right:13px;background:#cbd8bd}",
+      "description": "Editorial heading with the cropped arch signature."
+    }
+  ],
+  "narrative": {
+    "northStar": "Community Garden",
+    "overview": "ChurchConnect pairs forest actions and sage surfaces with readable DM Sans product typography and an inherited Lora welcome headline. Taste refinement adds a generated community photograph, stronger job hierarchy, and a complete dark token set. The final implementation is frontend/src/taste.css; baseline component specimens below predate this refinement.",
+    "keyCharacteristics": [
+      "Warm neutral canvas and restrained green actions.",
+      "Serif editorial headings paired with compact sans-serif task controls.",
+      "Flat bordered job cards and gently rounded inset panels.",
+      "Persistent desktop navigation that becomes a mobile drawer and bottom bar."
+    ],
+    "rules": [],
+    "dos": [
+      "Do use Lora for editorial headings and DM Sans for controls and job data.",
+      "Do preserve salary, work arrangement, sample notices, and explicit saved/applied states.",
+      "Do apply the final metadata contrast and sizing overrides when adding job cards.",
+      "Do keep mobile navigation reachable, the closed drawer hidden, and focus visible.",
+      "Do preserve reduced-motion support and focus restoration for native dialogs."
+    ],
+    "donts": [
+      "Don't introduce heavy card shadows into the flat job board.",
+      "Don't use the arch illustration behind form labels or dense job information.",
+      "Don't remove sample-data labeling or imply that keyword matches assess qualifications.",
+      "Don't substitute icon-only actions for the existing labeled primary actions."
+    ]
+  }
+}
